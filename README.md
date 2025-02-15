@@ -18,7 +18,7 @@ Simple Keep is a minimalistic note-taking app built with React and Vite. It allo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/simple-keep.git
+   git clone https://github.com/HarshalBisen-HB/keep-Clone.git
    cd simple-keep
    Note The `node_modules` folder is included in this submission. You do not need to run `npm install`.
 2. **Run the Application**
