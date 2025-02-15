@@ -22,4 +22,5 @@ Simple Keep is a minimalistic note-taking app built with React and Vite. It allo
    cd simple-keep
    Note The `node_modules` folder is included in this submission. You do not need to run `npm install`.
 ## Run the Application
-- npm run dev
+  ```bash
+   npm run dev
